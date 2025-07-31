@@ -41,7 +41,7 @@
       "typedRoutes": true
     },
     "extra": {
-      "EXPO_PUBLIC_GOOGLE_PLACES_API_KEY": "AIzaSyC_vfda_3d7KM8nQqD-mqRuWo5pdwVMPc8"
+      "EXPO_PUBLIC_GOOGLE_PLACES_API_KEY": "YOUR_GOOGLE_PLACES_API_KEY"
     }
   }
 }
