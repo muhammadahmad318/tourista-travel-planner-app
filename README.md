@@ -2,13 +2,7 @@
 
 Tourista is a React Native app that uses AI to generate personalized travel itineraries, manage bookings, and suggest destinations. Features include smart trip planning, budget management, and integration with Google Maps and Firebase.
 
-## Security Notice ⚠️
 
-**IMPORTANT**: This project has been updated to use environment variables for all API keys and sensitive configuration. Please ensure you:
-
-1. Never commit your actual API keys to version control
-2. Use the provided `env.example` file as a template
-3. Set up proper environment variables before running the app
 
 ## Getting Started
 
