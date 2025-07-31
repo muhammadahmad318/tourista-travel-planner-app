@@ -33,10 +33,15 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-font",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "EXPO_PUBLIC_GOOGLE_PLACES_API_KEY": "AIzaSyC_vfda_3d7KM8nQqD-mqRuWo5pdwVMPc8"
     }
   }
 }

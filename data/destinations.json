@@ -1,0 +1,256 @@
+[
+  {
+    "id": "21",
+    "name": "Hunza Valley Adventure",
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Explore the breathtaking Hunza Valley, its forts, lakes, and local culture in the heart of Gilgit-Baltistan.",
+    "rating": 4.9,
+    "price": "35000",
+    "duration": "5",
+    "location": "Gilgit-Baltistan, Pakistan",
+    "category": "Mountains",
+    "startingPoint": "Islamabad",
+    "latitude": 36.3167,
+    "longitude": 74.6500,
+    "departureDate": "2024-07-10",
+    "endingDate": "2024-07-15",
+    "itinerary": [
+      {
+        "time": "Day 1, 7:00 AM",
+        "place": "Islamabad Departure",
+        "description": "Departure from Islamabad to Chilas via Karakoram Highway.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "2000 PKR",
+        "type": "transport"
+      },
+      {
+        "time": "Day 1, 8:00 PM",
+        "place": "Chilas Hotel",
+        "description": "Overnight stay at Chilas hotel with dinner included.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "4000 PKR",
+        "type": "hotel"
+      },
+      {
+        "time": "Day 2, 8:00 AM",
+        "place": "Rakaposhi View Point",
+        "description": "Breakfast and sightseeing at Rakaposhi View Point.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "500 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 2, 1:00 PM",
+        "place": "Hunza Serena Inn",
+        "description": "Check-in at Hunza Serena Inn, lunch and rest at the hotel.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "5000 PKR",
+        "type": "hotel"
+      },
+      {
+        "time": "Day 3, 9:00 AM",
+        "place": "Baltit Fort",
+        "description": "Guided tour of the historic Baltit Fort.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "1000 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 3, 2:00 PM",
+        "place": "Altit Fort",
+        "description": "Visit Altit Fort and enjoy local cuisine for lunch.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "1200 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 4, 10:00 AM",
+        "place": "Attabad Lake",
+        "description": "Boating and sightseeing at Attabad Lake.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "2000 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 4, 3:00 PM",
+        "place": "Passu Cones",
+        "description": "Photo stop and short trek at Passu Cones.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "0 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 5, 8:00 AM",
+        "place": "Return to Islamabad",
+        "description": "Breakfast and departure for Islamabad.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "2000 PKR",
+        "type": "transport"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Fairy Meadows Trek",
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Trek to the magical Fairy Meadows with stunning views of Nanga Parbat.",
+    "rating": 4.8,
+    "price": "25000",
+    "duration": "4",
+    "location": "Diamer, Gilgit-Baltistan, Pakistan",
+    "category": "Mountains",
+    "startingPoint": "Islamabad",
+    "latitude": 35.3967,
+    "longitude": 74.6086,
+    "departureDate": "2024-07-10",
+    "endingDate": "2024-07-15",
+    "itinerary": [
+      {
+        "time": "Day 1, 6:00 AM",
+        "place": "Islamabad Departure",
+        "description": "Travel from Islamabad to Chilas via private transport.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "2000 PKR",
+        "type": "transport"
+      },
+      {
+        "time": "Day 1, 8:00 PM",
+        "place": "Chilas Hotel",
+        "description": "Dinner and overnight stay at Chilas.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "3500 PKR",
+        "type": "hotel"
+      },
+      {
+        "time": "Day 2, 7:00 AM",
+        "place": "Raikot Bridge",
+        "description": "Breakfast and jeep ride to Tattu Village.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "2500 PKR",
+        "type": "transport"
+      },
+      {
+        "time": "Day 2, 10:00 AM",
+        "place": "Tattu Village",
+        "description": "Start trek to Fairy Meadows (approx. 3-4 hours).",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "0 PKR",
+        "type": "trek"
+      },
+      {
+        "time": "Day 2, 2:00 PM",
+        "place": "Fairy Meadows Huts",
+        "description": "Check-in, lunch, and rest at Fairy Meadows huts.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "4000 PKR",
+        "type": "hotel"
+      },
+      {
+        "time": "Day 3, 9:00 AM",
+        "place": "Nanga Parbat View Point",
+        "description": "Trek to Nanga Parbat Base Camp or enjoy views from Fairy Meadows.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "0 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 3, 7:00 PM",
+        "place": "Fairy Meadows Huts",
+        "description": "Dinner and bonfire at Fairy Meadows.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "1000 PKR",
+        "type": "food"
+      },
+      {
+        "time": "Day 4, 8:00 AM",
+        "place": "Return to Islamabad",
+        "description": "Trek back to Tattu Village, jeep to Raikot, and drive to Islamabad.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "3000 PKR",
+        "type": "transport"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Lahore Heritage Tour",
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Discover the rich history and culture of Lahore, visiting its iconic forts, mosques, and food streets.",
+    "rating": 4.7,
+    "price": "12000",
+    "duration": "2",
+    "location": "Lahore, Punjab, Pakistan",
+    "category": "Cities",
+    "startingPoint": "Lahore",
+    "latitude": 31.5497,
+    "longitude": 74.3436,
+    "departureDate": "2024-07-10",
+    "endingDate": "2024-07-15",
+    "itinerary": [
+      {
+        "time": "Day 1, 9:00 AM",
+        "place": "Lahore Fort",
+        "description": "Guided tour of the historic Lahore Fort.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "500 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 1, 11:00 AM",
+        "place": "Badshahi Mosque",
+        "description": "Visit the grand Badshahi Mosque next to Lahore Fort.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "0 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 1, 1:00 PM",
+        "place": "Food Street",
+        "description": "Lunch at the famous Lahore Food Street with local delicacies.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "1000 PKR",
+        "type": "food"
+      },
+      {
+        "time": "Day 1, 3:00 PM",
+        "place": "Shalimar Gardens",
+        "description": "Stroll through the Mughal-era Shalimar Gardens.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "500 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 1, 7:00 PM",
+        "place": "Hotel in Lahore",
+        "description": "Check-in and overnight stay at a 3-star hotel.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "4000 PKR",
+        "type": "hotel"
+      },
+      {
+        "time": "Day 2, 10:00 AM",
+        "place": "Anarkali Bazaar",
+        "description": "Shopping and exploration at the historic Anarkali Bazaar.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "0 PKR",
+        "type": "tourist_spot"
+      },
+      {
+        "time": "Day 2, 1:00 PM",
+        "place": "Lunch at Cuckoo's Den",
+        "description": "Lunch at the iconic Cuckoo's Den restaurant with a view of Badshahi Mosque.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "1500 PKR",
+        "type": "food"
+      },
+      {
+        "time": "Day 2, 3:00 PM",
+        "place": "Wagah Border",
+        "description": "Witness the flag-lowering ceremony at Wagah Border.",
+        "photo": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "500 PKR",
+        "type": "tourist_spot"
+      }
+    ]
+  }
+]

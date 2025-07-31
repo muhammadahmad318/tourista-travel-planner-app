@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/Input-ui.jsx", "components/DrawerContent.jsx", "components/CategoryButtons.jsx", "components/GroupListings.jsx", "components/Listings.jsx", "components/Button-ui.jsx", "app/_layout.jsx", "app/(AI)/search-destination.jsx"  ]
 }
